@@ -1,2 +1,2 @@
 # movie-recommendation-System
-it is an movie recommendation system which work on Cosine Similarity algorithm 
+it is an movie recommendation system which work on Cosine Similarity algorithm and it is an Content based  recommendation system which take input from user and give recommendations using cosine similarity algorithm (give the similar or related content ) and i also use some other machine learning algorithm  for better experience in taking input from user like #difflib for spelling mistake   
